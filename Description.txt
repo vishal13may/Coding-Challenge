@@ -1,0 +1,3 @@
+While running the code 
+1) Please change the path for input file(as per your drive location) in ConferenceConstant.java file at INPUT_FILE variable.
+2) While running the test cases,change the modifier for private method to public.
